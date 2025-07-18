@@ -19,5 +19,14 @@ Este script en Python permite conectarse a la API de **Seller Center de Fcom**, 
 
 Instala las dependencias necesarias:
 
-```bash
-pip install pandas requests openpyxl
+`pip install pandas requests openpyxl`
+
+
+## ⚙️ Configuración
+
+Modifica las siguientes variables en el script según tus credenciales y necesidades:
+   - `API_KEY` = 'TU_API_KEY'
+   - `USER_ID` = 'tu_correo@ejemplo.com'
+   - `API_URL` = 'https://sellercenter-api.falabella.com/'
+
+⚠️ **Importante**: No compartas tu API_KEY públicamente.
