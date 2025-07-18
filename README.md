@@ -1,7 +1,8 @@
 # ApiEcommerce
-# 🧾 Descarga y Consolidación de Pedidos desde Seller Center API (Falabella)
 
-Este script en Python permite conectarse a la API de **Seller Center de Falabella**, obtener información detallada de pedidos (`GetOrders`) e ítems por pedido (`GetMultipleOrderItems`), y consolidar todo en un único archivo Excel.
+# 🧾 Descarga y Consolidación de Pedidos desde Seller Center API (Fcom)
+
+Este script en Python permite conectarse a la API de **Seller Center de Fcom**, obtener información detallada de pedidos (`GetOrders`) e ítems por pedido (`GetMultipleOrderItems`), y consolidar todo en un único archivo Excel.
 
 ## 📦 ¿Qué hace este script?
 
