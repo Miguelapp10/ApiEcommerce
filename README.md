@@ -15,9 +15,19 @@ Este script en Python permite conectarse a la API de **Seller Center de Fcom**, 
    - `Items.xlsx`: Contiene los ítems individuales por pedido.
    - `pedidos.xlsx`: Consolidado de ambos anteriores.
 
-## 📁 Requisitos
 
-Instala las dependencias necesarias:
+## 🛠️ Requisitos
+
+- Python 3.8 o superior
+- Librerías:
+  - `requests`
+  - `pandas`
+  - `xml`
+  - `datetime`
+  - `json`
+  - `openpyxl` (para guardar Excel)
+
+Instalación rápida de dependencias:
 
 `pip install pandas requests openpyxl`
 
